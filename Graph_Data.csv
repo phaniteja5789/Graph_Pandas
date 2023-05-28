@@ -1,0 +1,6 @@
+﻿task_name,level,parent_node,child_node
+N1,0,None,"[1,2,3]"
+1,1,[N1],[N2]
+2,1,[N1],[N2]
+3,1,[N1],[N2]
+N2,2,"[1,2,3]",None
