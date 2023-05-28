@@ -1,5 +1,5 @@
-# N-AryGraph_Pandas
-Implementation of N-Ary Graph from Pandas DataFrame
+# Graph_Pandas
+Implementation of Graph from Pandas DataFrame
 
 **Requirement :**
 
